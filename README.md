@@ -2,6 +2,11 @@
 
 ## How to's:
 
+****When first opening VS Code run the following command in the terminal****
+```
+    conda activate ppp
+```
+
 ### Push to Github:
 Save all files in VS Code
 
