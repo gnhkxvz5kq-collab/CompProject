@@ -2,10 +2,15 @@
 
 ## How to's:
 
-****When first opening VS Code run the following command in the terminal****
+### Things that you have to do:
+
+**When first opening VS Code run the following command in the terminal**
 ```
     conda activate ppp
 ```
+**Double Check the kernel in the top right is PhysProjPrython**
+
+**Don't use plt.show just use plt.savefig**
 
 ### Push to Github:
 Save all files in VS Code
